@@ -12,4 +12,3 @@ Este repositorio contendra los resultados de las practicas de la ateria para ten
 |Numero|Descripcion|Potenciador|Estatus|
 |---|---|---|---|
 |1|[Introduccion al uso de Python en el analisis de Datos](/Practica02/Practica_230091.ipynb)|37|Revisada|
-
