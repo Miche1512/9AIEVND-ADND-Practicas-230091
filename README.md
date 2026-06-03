@@ -13,4 +13,4 @@ Este repositorio contendra los resultados de las practicas de la ateria para ten
 |Numero|Descripcion|Potenciador|Estatus|
 |---|---|---|---|
 |1|[Introduccion al uso de Python en el analisis de Datos](/Practica02/Practica_230091.ipynb)|37|Revisada|
-|2|[Analisis de Datos Exploratorio con Python y Jupiter Notebook en un Dataset de Productos de Amazon store](/Practica04/Practica04_230091.ipynb)|--|Revisada|
+|2|[Analisis de Datos Exploratorio con Python y Jupiter Notebook en un Dataset de Productos de Amazon store](/Practica04/Practica04-230091.ipynb)|--|Revisada|
